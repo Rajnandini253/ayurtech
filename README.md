@@ -16,6 +16,6 @@ AyurTech is a high-performance wellness engine that maps Ayurvedic principles to
 - **Historical Tracking:** Local session persistence for wellness trends.
 
 ## 📦 Installation
-1. Clone the repo: `git clone [YOUR_REPO_LINK]`
+1. Clone the repo: `git clone [(https://github.com/Rajnandini253/ayurtech)]`
 2. Install dependencies: `npm install`
 3. Run the engine: `npm run dev`
